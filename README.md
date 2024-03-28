@@ -40,10 +40,10 @@ To contribute, fork this repository, add your new resource and submit a PR. For 
 * [Alpine.js: The JavaScript Framework That’s Used Like jQuery, Written Like Vue, and Inspired by TailwindCSS - CSS Tricks](https://css-tricks.com/alpine-js-the-javascript-framework-thats-used-like-jquery-written-like-vue-and-inspired-by-tailwindcss/)
 * [Practical Alpine.js: x-data data access & data fetching examples - Code with Hugo](https://codewithhugo.com/alpinejs-x-data-fetching/)
 * [Synchronize x-data and the URL in Alpine.js with the location/History APIs and $watch - Code with Hugo](https://codewithhugo.com/alpinejs-x-data-watch-url/)
-* [Creating Custom Magic Variables in Alpine.js - Ryan Chandler](https://ryangjchandler.co.uk/articles/creating-custom-magic-variables-in-alpinejs)
-* [Writing Reusable Alpine Components - Ryan Chandler](https://ryangjchandler.co.uk/articles/writing-reusable-alpine-components)
+* [Creating Custom Magic Variables in Alpine.js - Ryan Chandler](https://ryangjchandler.co.uk/posts/creating-custom-magic-variables-in-alpinejs)
+* [Writing Reusable Alpine Components - Ryan Chandler](https://ryangjchandler.co.uk/posts/writing-reusable-alpine-components) 
 * [Authoring progressive enhanced fragments with Alpine - Nicolás Delfino](https://www.nicolasdelfino.com/blog/progressive-enhancement-scs)
-* [Build a Remaining Character Count Component with Alpine.js - Ryan Chandler](https://ryangjchandler.co.uk/articles/build-a-remaining-character-count-component-with-alpinejs)
+* [Build a Remaining Character Count Component with Alpine.js - Ryan Chandler](https://ryangjchandler.co.uk/posts/build-a-remaining-character-count-component-with-alpinejs)
 * [How to Use Cookies With AlpineJS - Peter Thaleikis](https://releasecandidate.dev/posts/2021/how-to-use-cookies-with-alpinejs/)
 
 ## Podcasts
